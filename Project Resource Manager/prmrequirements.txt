@@ -1,0 +1,27 @@
+About:
+This is a desktop application which will allow users to store and manage project resources AND will identify how much they will cost
+
+Requirements:
+- User is ONLY a project manager
+- User must be able to add a resource including:
+    - Name
+    - Role
+    - Start Date
+    - End Date
+    - Daily salary
+- User must be able to search for resources
+- User must be able to see a list of resources
+- User must be able to select a resource from the list of resources
+- When a resource is selected, information displayed should include:
+    - Name
+    - Role
+    - Start Date
+    - End Date
+    - Daily Salary
+    - Projected Days Worked
+    - Total cost of resource
+- User should be able to select a 'total cost' button and see the total cost of the project
+- Must be able to add new resources
+- Must be able to update the selected resource
+- Must be able to delete the selected resource
+- Should get an alert if you are trying to add a resource which is very similar to one which already exists

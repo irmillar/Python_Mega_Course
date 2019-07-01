@@ -1,0 +1,12 @@
+1. Need to be able to view all
+2. Search entry
+3. Add entry
+4. Update a selected entry
+5. Delete a selected entry
+6. Close the program
+7. Need entry points for Title, Author, Year, and ISBN
+
+
+Approach:
+- Build the front end first
+- Once the front end is built, build the backend and connect it to the database
